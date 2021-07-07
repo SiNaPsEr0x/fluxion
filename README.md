@@ -61,9 +61,13 @@ All contributions are welcome! Code, documentation, graphics, or even design sug
 
 A Linux-based operating system. We recommend Kali Linux 2019.4. An external wifi card is recommended.
 
-## Related work
+## Verify commits
+Now, every commit should be signed. You can verify the signator using `git-verify-commit [commit]`.
 
-For development, I use vim and tmux. Here are my [dotfiles](https://github.com/deltaxflux/takumi/)
+| Contributor  | GPG key id |
+| ------------- | ------------- |
+| deltaxflux  | 40EAE3B9D0FBCE9C  |
+
 ## :octocat: Credits
 1. l3op - contributor
 2. dlinkproto - contributor
@@ -83,6 +87,10 @@ For development, I use vim and tmux. Here are my [dotfiles](https://github.com/d
 
 ## Note
 * Beware of sites pretending to be related with the Fluxion Project. These may be delivering malware.
+
+* Use Parrot OS for Less Errors.
+
+* For WN722n V2/V3 VISIT - https://github.com/aircrack-ng/rtl8188eus
 
 * Fluxion **DOES NOT WORK** on Linux Subsystem For Windows 10, because the subsystem doesn't allow access to network interfaces. Any Issue regarding the same would be **Closed Immediately**
 
